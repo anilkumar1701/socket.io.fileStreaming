@@ -1,0 +1,1 @@
+upload file from client side using Sockets and fs file read methods usng buffer and displaying on the front end side.
